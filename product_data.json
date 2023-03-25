@@ -27,7 +27,6 @@
 			"updated_at":"2023-02-12",
 			"type_id":2
 		},
-
 		{
 			"id":3,
 			"name":"Waakye and Chicken",
@@ -40,7 +39,6 @@
 			"updated_at":"2023-02-12",
 			"type_id":2
 		},
-
 		{
 			"id":4,
 			"name":"Beans and Riped Plantain",
@@ -53,7 +51,6 @@
 			"updated_at":"2023-02-12",
 			"type_id":2
 		},
-
 		{
 			"id":5,
 			"name":"Fufu and light soup",
@@ -66,7 +63,6 @@
 			"updated_at":"2023-02-12",
 			"type_id":2
 		},
-
 		{
 			"id":6,
 			"name":"Tuozafi",
@@ -79,8 +75,6 @@
 			"updated_at":"2023-02-12",
 			"type_id":2
 		}
-
-
 	]
 	
 }
