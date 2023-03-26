@@ -1,6 +1,6 @@
 {
 	"total_size":5,
-	"type_id":2,
+	"type_id":3,
 	"offset":0,
 	"products":[
 		{
@@ -13,7 +13,7 @@
 			"location":"Ghana",
 			"created_at":"2023-01-12",
 			"updated_at":"2023-02-12",
-			"type_id":2
+			"type_id":3
 		},
 		{
                        	"id":2,
@@ -25,7 +25,7 @@
 		       	"location":"Ghana",
 			"created_at":"2023-01-12",
 			"updated_at":"2023-02-12",
-			"type_id":2
+			"type_id":3
 		},
 		{
 			"id":3,
@@ -37,7 +37,7 @@
 			"location":"Ghana",
 			"created_at":"2023-01-12",
 			"updated_at":"2023-02-12",
-			"type_id":2
+			"type_id":3
 		},
 		{
 			"id":4,
@@ -49,7 +49,7 @@
 			"location":"Ghana",
 			"created_at":"2023-01-12",
 			"updated_at":"2023-02-12",
-			"type_id":2
+			"type_id":3
 		},
 		{
 			"id":5,
@@ -61,7 +61,7 @@
 			"location":"Ghana",
 			"created_at":"2023-01-12",
 			"updated_at":"2023-02-12",
-			"type_id":2
+			"type_id":3
 		},
 	]
 }
