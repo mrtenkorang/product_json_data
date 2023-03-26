@@ -1,3 +1,79 @@
 {
-	"total_size":5
+	"total_size":6,
+	"type_id":2,
+	"offset":0,
+	"products":[
+		{
+			"id":1,
+			"name":"Konkonte",
+			"description":"A common Ghanaian dish that must be served hot",
+			"price":10,
+			"stars":5,
+			"img":"assets/images/GHfood1.png",
+			"location":"Ghana",
+			"created_at":"2023-01-12",
+			"updated_at":"2023-02-12",
+			"type_id":2
+		},
+		{
+                       	"id":2,
+                       	"name":"Plain rice and stew",
+		       	"description":"A common Ghanaian dish that must be served hot and spicy",
+		       	"price":20,
+                       	"stars":5,
+		       	"img":"assets/images/GHfood2.png",
+		       	"location":"Ghana",
+			"created_at":"2023-01-12",
+			"updated_at":"2023-02-12",
+			"type_id":2
+		},
+		{
+			"id":3,
+			"name":"Cooked Yam and garden egg stew",
+			"description":"A common Ghanaian dish that must be served hot",
+			"price":15,
+			"stars":5,
+			"img":"assets/images/GHfood5.png",
+			"location":"Ghana",
+			"created_at":"2023-01-12",
+			"updated_at":"2023-02-12",
+			"type_id":2
+		},
+		{
+			"id":4,
+			"name":"Fried yam and hot pepper",
+			"description":"A common Ghanaian dish that must be served hot and with gari",
+			"price":14,
+			"stars":4,
+			"img":"assets/images/beans.png",
+			"location":"Ghana",
+			"created_at":"2023-01-12",
+			"updated_at":"2023-02-12",
+			"type_id":2
+		},
+		{
+			"id":5,
+			"name":"Roasted ripped plantain and groundnut",
+			"description":"A common Ghanaian dish that must be served hot and with a lot of meat",
+			"price":25,
+			"stars":5,
+			"img":"assets/images/GHfood4.png",
+			"location":"Ghana",
+			"created_at":"2023-01-12",
+			"updated_at":"2023-02-12",
+			"type_id":2
+		},
+		{
+			"id":6,
+			"name":"rice balls and groundnut soup",
+			"description":"A common Ghanaian dish that must be served hot",
+			"price":16,
+			"stars":3,
+			"img":"assets/images/GHfood3.png",
+			"location":"Ghana",
+			"created_at":"2023-01-12",
+			"updated_at":"2023-02-12",
+			"type_id":2
+		}
+	]
 }
