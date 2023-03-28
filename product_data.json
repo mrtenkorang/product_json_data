@@ -33,7 +33,7 @@
 			"description":"A common Ghanaian dish that must be served hot",
 			"price":15,
 			"stars":5,
-			"img":"assets/images/GHfood5.png",
+			"img":"https://github.com/mrtenkorang/product_json_data/blob/7c2f21d7637ee8d5ce87286ef27146e758e5b478/images/GHfood5.png?raw=true",
 			"location":"Ghana",
 			"created_at":"2023-01-12",
 			"updated_at":"2023-02-12",
